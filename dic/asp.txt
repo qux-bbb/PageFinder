@@ -1,0 +1,17 @@
+/robots.txt
+/.bash_history
+/.bashrc
+/.git
+/.git/config
+/.hg
+/.hg/hgrc
+/.htaccess
+/.index.asp.swp
+/.svn
+/.svn/entries
+/admin
+/admin/default
+/admin/index
+/admin/login
+/admin/manage
+/index.asp
